@@ -1,4 +1,4 @@
 # pythoncalculator
-python basic
-python define function and create a simple calculator 
+# python basic
+# python define function and create a simple calculator 
 
